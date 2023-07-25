@@ -6,9 +6,6 @@ Pagination refers to the process of dividing a large set of data or content into
 In web applications, pagination is often utilized to display search results or a list of items, such as articles, products, or user profiles. Instead of showing all the data on a single page, it is divided into several pages, with each page containing a specific number of items. The user can then navigate through the pages using pagination controls, typically consisting of previous and next buttons, as well as page numbers.
 
 ### HATEOAS:
-
-
-ChatGPT
 HATEOAS stands for "Hypermedia as the Engine of Application State." It is a key constraint and concept of the REST (Representational State Transfer) architectural style, which is commonly used in designing web APIs. HATEOAS aims to make APIs more discoverable, self-descriptive, and flexible by including hypermedia links in the API responses.
 
 In traditional APIs, the client and server need to have a pre-defined contract or knowledge about the endpoints and data formats to interact successfully. This tight coupling between the client and server can make the API less adaptable to changes and can result in brittle clients that break easily if the API evolves.
